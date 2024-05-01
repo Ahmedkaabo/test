@@ -1,0 +1,5 @@
+const number1 = 278361273;
+const number2 = 231677716;
+
+// Display the numbers on the webpage
+document.getElementById('numberDisplay').innerText = `Number 1: ${number1} | Number 2: ${number2}`;
